@@ -6,7 +6,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hqueiroz673&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hqueiroz673&layout=compact&theme=dracula" />
 </p>
 
 <p align="center">
