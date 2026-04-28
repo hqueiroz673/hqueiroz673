@@ -1,6 +1,5 @@
 ## Sou Hiago Queiroz, estudante de programação e tecnologia!
 - 🔭 Ainda não trabalho
-- 🌱 Estudando Java e Python
 - 📫 hqueiroz672@gmail.com
 - 😄 He/him
 
