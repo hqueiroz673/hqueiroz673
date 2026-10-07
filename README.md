@@ -18,7 +18,6 @@
 - 🔭 Ainda estou começando minha carreira 
 - 🌱 Aprofundando meus conhecimentos em **JavaScript**, **Python** e **Java**
 - 📫 Contato: **hqueiroz672@gmail.com**
-- 😄 Pronomes: ele/dele
 
 ---
 
